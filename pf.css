@@ -1,0 +1,75 @@
+i{
+    margin-left: 37%;
+    font-size: 250%;
+}
+.B{
+margin-left: 64%;
+word-spacing: 40px;
+font-size: 140%;
+}
+.move{
+  margin-left: 8%;
+  font-size: 120%;
+}
+body{
+    background-color:rgb(201, 229, 235);
+}
+img{
+    float: right;
+}
+div{
+    background: linear-gradient(to left, #00ffff 0%, #99ff99 100%);
+}
+h2{
+    padding: 30px;
+    margin-left: 38%;
+    font-size: 190%;
+}
+.A
+{
+    font-style: oblique;
+}
+h3{
+    margin-left: 2%;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 130%;
+    background-color: rgb(161, 243, 78);
+}
+.C{
+    margin-left: 8%;
+}
+.D{
+    margin-left: 3.4%;
+}
+.E{
+    margin-left: 5%;
+}
+.F{
+    margin-left: 1.5%;
+}
+.I{
+    margin-left: 3.8%;
+}
+.H{
+    margin-left: 4.4%;
+}
+.J{
+    margin-left: 2%;
+}
+h6{
+    font-style: oblique;
+}
+.G{
+    background-color: rgb(223, 184, 223);
+    font-style: italic;
+}
+h5:hover{
+  color: rgb(255, 14, 14);
+}
+
+footer{
+    text-align: center;
+    font-size: x-large;
+    padding: 3px;
+}
